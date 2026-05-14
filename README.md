@@ -65,11 +65,6 @@ Job Opportunities, Freelance Projects & Collaborations 😊
 
 ---
 
-## 😄 Pronouns
-Harish Bhai 😄
-
----
-
 ## ⚡ Fun Fact
 I love building real-time systems that automate trading and solve practical problems 📊🔥
 
