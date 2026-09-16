@@ -91,7 +91,6 @@ Job Opportunities, Freelance Projects & Collaborations 😊
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=harishsuthar7023&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=harishsuthar7023&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harishsuthar7023&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
